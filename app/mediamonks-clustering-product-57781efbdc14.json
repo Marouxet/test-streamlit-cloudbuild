@@ -1,0 +1,14 @@
+
+{
+  "type": "service_account",
+  "project_id": "mediamonks-clustering-product",
+  "private_key_id": "57781efbdc14f0605d2135397e50e86baf694c65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiNYV9R9JCra2z\nP/lVoPko4h3HZKvhFgDOw9U7i2HgqGoGfjUJ/mVZyWW91452oGiP0oygkZUVnIIu\nYhtQFDin5VrNt4FboICdpyYbpG5x7tOUaDVImRWu2bZ+RwJy0c56cdqBuk6LPLOq\nagqc1gHO+RV8oYAFO66ah+8KDwJ1GOKC5FH9wOwGxMxcokmnLqXNuN1IWntilRn9\nhqeL5rbA+PjQuV0NxQvJkdCDgDqgXEBNQe8wsUFMlfMZZ+wck7Tvb7e5gyfAxYq6\nRirpPHI91SsOLn64L0x1Id2WjJkZy9B+Ix0weLkH7zfQa+hQ+93HEmG6DIEPYiW9\nKk6X8r0HAgMBAAECggEAQvDXugVBAZ5n4r2xyVdDpIeVjGYMPyXFw2pMdbx/kH4G\nMjmy9GwmDfX9d7qMXCqIBtel6fZrCeQw2g0KTB5Pzc+fmXUOgND0frLyIgf87xZf\n4nEcI4m50u52hNP6s4PG+JEsumspxyaFfI646USjcF5hr2oTenj46J4FbRKYBZJz\nEf1pMkjLd94gyUYxTyzNe5ykAa6BhWS/zMP0fW+f6k3zqk/As54bWMLBsQdWL5mU\naMNJNg9HpD3vFvGgPTQ0cmIZyA+SHToLvrX7fYRzynBfcwQnQxoO1gOgNXfCg9KL\nqwU1AqwJQPZX/auBJ5XPlZI2EbF0WOZQzNtz8TifAQKBgQD7659pZQ5/XcOiw21m\nVYBul8KILtZV/8Vd4XcK7zSIFvLu1h1afHdHCP5WvH7o/GfEoXUjEaWzAdNkpQ7S\npxp1QfKVev/8PyQAMYcAKDVSIWNxK/fIekf5PbP585xbmit7g4WBYaB+pYsrItRM\nW21RE2eSGxwh36l8TdQfysa9QQKBgQDl307mA2fSUUhvAwEpruWsV30OZX0HUVuI\nc421JUmlrQjxgLPIcXswqeWt10EBgRw3ABlUv93w0qVd8j1j7A5i8LIdwQrItRUU\nrMlGiIhjeNC9qrnxM+FwTutJLrn2VHLMf0OBW1uKz8whvruAkW+Dp6Gub/rTXiZp\nB6/uloRARwKBgQCyLKRC1sa6Lob/x1jI2BBOJ+feicHucUgWbjDT+vschZ6sbaO1\nK/LwutuoXQkln9+Eou1GMGURhmkM9fDV7Ho6FLqOHsCOl9nOiTkCU23i+NpsYLyP\nfm0JSyrPzgz4fMHkSdFTAMmSyWL0z1134/IdNaw7GhF7o8UrtaAiHDkUAQKBgB8x\nPyaNHcB3USnnMXgziGzrbkfO07lze8U3UOpcxfKaWVVUDpFLfNjspQMC64pFt8tq\n0wUiB/7OxqvJ3DS76nPYj4LkGA+GKvckPye4DTHaShECorqtPJEd1GWY1pkremxv\ndHyQJgrfCacml5Dpq0UlMRZXkaSu6O1loqTwfb+vAoGAewZ8FptuncGcLZfJviNw\n08KHB4TgcjhigIKLFGH+goE2vOYF0CyO7G3qzTwS1cwtGiz3kY98fLS9Dq7E9OQb\nbNUqulk8w1FuQHOH0qQHdM1zfj6xNQXSPZQg4ptipeH7xnN9zsLyR3j6/501kFP8\njpySYCmVXPEh5nOJTHrsFoE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudtask-mmcp@mediamonks-clustering-product.iam.gserviceaccount.com",
+  "client_id": "102502094130738100861",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudtask-mmcp%40mediamonks-clustering-product.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
